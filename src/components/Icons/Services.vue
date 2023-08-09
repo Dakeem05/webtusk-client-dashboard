@@ -1,0 +1,10 @@
+
+<template>
+  <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2"><path d="M21 12a9 9 0 1 0-9 9M3.6 9h16.8M3.6 15H12"></path><path d="M11.578 3a17 17 0 0 0 0 18M12.5 3c1.719 2.755 2.5 5.876 2.5 9m3 2v7m-3-3l3 3l3-3"></path></g></svg>
+</template>
+
+<script>
+export default {
+  name: 'TablerWorldDownload'
+}
+</script>
